@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../WIFI"
+		},
+		{
+			"path": "../../Lab5"
+		},
+		{
+			"path": "../../Lab2"
+		},
+		{
+			"path": "../../Lab4"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"extensions.ignoreRecommendations": true,
+		"files.associations": {
+			"*.ino": "cpp"
+		}
+	}
+}
